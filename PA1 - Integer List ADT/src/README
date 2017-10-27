@@ -1,0 +1,7 @@
+List.java	- The list ADT Class, contains the basic functionality to make and manipulate a list of int data
+ListClient.java - A program used to test the List ADT to make sure everything works correctly
+Lex.java	- A program that accepts two files as command line argument. It gets the data from the input file and
+		- organizes the words in alphabetical order without altering the input file
+MakeFile	- creates an executable jar file called lex, and a clean target that removes lex and any associated
+		- .class file
+README		- lists each file submitted, together with a brief description of its role in the project
