@@ -1,0 +1,7 @@
+List.C		- The list ADT Implementation file that has functions used to create and manipulate the list object
+ListClient.c	- A program used to test the List ADT to make sure everything works correctly
+Lex.c		- A program that accepts two files as command line argument. It gets the data from the input file and
+		- organizes the words in alphabetical order without altering the input file
+MakeFile	- creates an executable file called lex, and a clean target that removes lex and any associated
+		- file
+README		- lists each file submitted, together with a brief description of its role in the project

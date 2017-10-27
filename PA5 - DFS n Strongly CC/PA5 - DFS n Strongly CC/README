@@ -1,0 +1,9 @@
+List.c		- ADT file for the list object used to make a doubly linked list
+List.h		- Header file for List.c used to declare the functions created in List.c
+Graph.c		- ADT file for the graph object used to make adjacency matrix and transpose a given graph
+		- using depth first search able to find the strongly connected components
+Graph.h		- Header file for the Graph.c used to declare the functions created in Graph.c
+GraphTest.c	- File used to check the functions of Graph.c and make sure everything works correctly
+FindComponents.c- Implementation file that reads data from a file and utalizes List and Graph to find the strongly  
+		- connected components
+Makefile	- creates and removes exacutable files

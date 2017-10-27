@@ -1,0 +1,8 @@
+Sparse.java	- Client Implementation file of the Matrix class
+Matrix.java	- A ADT class used in conjunction with list to create a sparse array of matrix
+		- Also contains methods that can be called to do basic matrix calculations
+List.java	- The list ADT Class, contains the basic functionality to make and manipulate a list of objects
+MatrixTest.java	- A program used to test the Matrix ADT to make sure all the methods work correctly
+ListTest.java 	- A program used to test the List ADT to make sure everything works correctly
+MakeFile	- creates an executable jar file called Sparse, and a clean target that removes Sparse and any associated
+		- .class file
